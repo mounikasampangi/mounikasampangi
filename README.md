@@ -18,11 +18,13 @@ Previously, I worked as a Business Analyst in EdTech, where I analyzed user enga
 </p>
 
 
-- 🔭 I’m currently spearheading full-stack projects that integrate real-time data pipelines and AI-driven features to deliver seamless user experiences.  
-- 🌱 I’m continuously expanding my skill set in AWS, DevOps, AI healthcare solutions and Product Management, ensuring I stay at the forefront of industry advancements.  
-- 🤝 I’m eager to explore full-time opportunities starting <b>MONTH YEAR</b> where I can drive impactful technology solutions and contribute to organizational growth.  
+### 🌟 What I’m Focused On
+
+- 📊 Leveraging analytics & experimentation to help teams build scalable, user-focused solutions.  
+- 🧠 Deepening my expertise in predictive modeling, user behavior analytics, and A/B testing.  
+- 🚀 Exploring full-time opportunities in Data & Product Analytics starting Spring 2026 to drive measurable impact in tech-driven environments.  
 - 📄 Know more about my experience: <a href="https://drive.google.com/file/d/1KnfEg8e1bvlZkS1GdmDPos_Us01kTEPB/view?usp=sharing" target="_blank"><b>Link to my resume</b></a>  
-- ⚡ Fun fact — I'm a traveling and photography enthusiast. Hire me so that I can buy myself a <a href="https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce7sm3-b" target="_blank">Sony Alpha</a> :')
+
 
 ---
 
