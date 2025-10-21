@@ -1,45 +1,30 @@
-<!-- Profile views badge (same style) -->
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="YOUR_USERNAME" />
-</p>
+<h1 align="center">Hi 👋, I'm Mounica Sampangi</h1>
+<h3 align="center">A passionate .......</h3>
 
-<h1 align="left">Hi 👋, I'm YOUR_NAME</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fsfs&label=Profile%20views&color=0e75b6&style=flat" alt="fsfs" /> </p>
 
+- 🔭 I’m currently working on [Project 1](link1)
+
+- 🌱 I’m currently learning **Frameworks, Courses etc**
+
+- 👯 I’m looking to collaborate on [Project 2](link2)
+
+- 🤝 I’m looking for help with [Project 3](link3)
+
+- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+
+- 📝 I regularly write articles on [blog link](blog link)
+
+- 💬 Ask me about **react, vue etc**
+
+- 📫 How to reach me **example@gmail.com**
+
+- 📄 Know about my experiences [resume link](resume link)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-I recently graduated with a Master’s in Computer Science from YOUR_SCHOOL in MONTH YEAR, bringing a blend of software engineering and data science to every project. Over the past year, I delivered scalable full-stack applications at YOUR_COMPANY_1 and drove AI-powered initiatives at YOUR_COMPANY_2, leveraging modern stacks to improve outcomes. My background includes optimizing enterprise workflows at YOUR_PREV_COMPANY, where I built custom web components and streamlined product operations. I excel in full-stack development, data pipelines, NLP, and AI-driven solutions with a user-centric mindset. I also love mentoring and supporting women in tech.
+<a href="https://www.leetcode.com/fsfsf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fsfsf" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently spearheading full-stack projects that integrate real-time data pipelines and AI-driven features to deliver seamless user experiences.  
-- 🌱 I’m expanding my skills in AWS, DevOps, AI for healthcare, and Product Management.  
-- 🤝 I’m open to full-time opportunities starting MONTH YEAR.  
-- 📄 Know more about my experience: **[My Resume](YOUR_RESUME_LINK)**  
-- ⚡ Fun fact — I’m into travel & photography. Hire me so I can buy a **[Sony Alpha](https://electronics.sony.com/imaging/interchangeable-lens-cameras/all-interchangeable-lens-cameras/p/ilce7sm3-b)** :’)
-
-### Connect with me
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">LinkedIn</a> • 
-<a href="https://www.leetcode.com/YOUR_LEETCODE" target="_blank">LeetCode</a> • 
-<a href="mailto:you@example.com">Email</a>
-
----
-
-### Languages and Tools
-<!-- Compact, clean icon wall (keeps maintenance easy but looks like the reference) -->
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp,go,html,css,react,nodejs,express,nextjs,flutter,android,angular,tailwind,bootstrap,postgres,mysql,mongodb,redis,sqlite,git,github,linux,docker,kubernetes,aws,gcp,azure,firebase,jenkins,grafana,postman,figma,tensorflow,pytorch,d3,unity,spring,php,swift,vue,vuetify&perline=12" />
-
----
-
-### GitHub Stats
-<!-- Overall stats -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en" alt="stats" />
-</p>
-
-<!-- Streaks -->
-<p>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" alt="streak-stats" />
-</p>
-
-<!-- Top languages -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact" alt="top-langs" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
