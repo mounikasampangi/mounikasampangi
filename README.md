@@ -27,12 +27,13 @@ Previously, I worked as a Business Analyst in EdTech, where I analyzed user enga
 ---
 
 ### Connect with me:
-<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank" rel="noreferrer">
+<a href="https://www.linkedin.com/in/mounikasampangi" target="_blank" rel="noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://leetcode.com/YOUR-LEETCODE" target="_blank" rel="noreferrer">
+<a href="https://leetcode.com/u/mounikasampangi/" target="_blank" rel="noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
 </a>
+
 
 ---
 
