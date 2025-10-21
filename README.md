@@ -75,3 +75,4 @@ My background includes optimizing enterprise workflows as a Software Engineer at
   <a href="https://www.adobe.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" alt="firefox" width="40" height="40"/></a>
 </p>
+
