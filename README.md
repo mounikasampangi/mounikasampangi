@@ -6,8 +6,17 @@
 <h1 align="left">Hi 👋, I'm Mounika Sampangi</h1>
 
 <p align="left">
-I recently graduated with a Master’s in Computer Science from <b>YOUR UNIVERSITY</b> in <b>MONTH YEAR</b>, bringing a dynamic blend of software engineering and data science expertise to every project. Over the past year, I delivered scalable full-stack applications at <b>YOUR COMPANY 1</b> and drove AI-powered healthcare initiatives at <b>YOUR COMPANY 2</b>, leveraging cutting-edge technologies to transform outcomes. My background includes optimizing enterprise workflows as a Software Engineer at <b>YOUR COMPANY 3</b>, where I developed custom web components and streamlined product operations. I excel in building full-stack applications, data pipelines, designing NLP models, and crafting AI-driven solutions, all while maintaining a passion for innovative, user-centric design. As a dedicated advocate for women in technology, I continuously seek opportunities to mentor and inspire future leaders.
+I’m currently pursuing my Master’s in Business Analytics at Northern Arizona University, graduating in December 2025. I bring a dynamic mix of data analytics, business strategy, and product insight generation to every project I take on. Over the past few years, I’ve worked on data-driven initiatives that combine analytical depth with creative problem-solving to deliver measurable business impact.
 </p>
+
+<p align="left">
+My background spans data analysis, visualization, and storytelling, with expertise in SQL, Python (pandas, NumPy, matplotlib), and tools like Power BI and Tableau. I specialize in uncovering patterns that help product and business teams improve user retention, optimize performance funnels, and identify growth opportunities. Beyond the technical side, I’m passionate about designing data stories that inspire evidence-based decision-making across organizations.
+</p>
+
+<p align="left">
+Previously, I worked as a Business Analyst in EdTech, where I analyzed user engagement data, optimized strategies, and delivered insights that guided both product and business decisions. My ability to connect analytical findings to user behavior and product outcomes continues to fuel my drive toward product analytics and data-informed innovation.
+</p>
+
 
 - 🔭 I’m currently spearheading full-stack projects that integrate real-time data pipelines and AI-driven features to deliver seamless user experiences.  
 - 🌱 I’m continuously expanding my skill set in AWS, DevOps, AI healthcare solutions and Product Management, ensuring I stay at the forefront of industry advancements.  
