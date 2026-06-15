@@ -1,91 +1,91 @@
 <!-- Profile Views Badge -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mounikasampangi&label=Profile%20views&color=0e75b6&style=flat" alt="mounikasampangi" />
+  <img src="https://komarev.com/ghpvc/?username=mounikasampangi&label=Profile%20views&color=14b8a6&style=flat" alt="mounikasampangi" />
 </p>
 
 <h1 align="left">Hi 👋, I'm Mounika Sampangi</h1>
 
+<h3 align="left">Data Analyst · Marketing Analytics · BI & ETL</h3>
+
 <p align="left">
-I’m currently pursuing my Master’s in Business Analytics at Northern Arizona University, graduating in December 2025. I bring a dynamic mix of data analytics, business strategy, and product insight generation to every project I take on. Over the past few years, I’ve worked on data-driven initiatives that combine analytical depth with creative problem-solving to deliver measurable business impact.
+Data Analyst with 2+ years of experience and a Master's in Business Analytics (4.0 GPA) from Northern Arizona University. I work at the intersection of data, business, and decision-making — using SQL, Python, Power BI, Tableau, and Adobe Analytics to analyze customer behavior, run A/B tests, and build dashboards that turn raw data into decisions teams can trust.
 </p>
 
 <p align="left">
-My background spans data analysis, visualization, and storytelling, with expertise in SQL, Python (pandas, NumPy, matplotlib), and tools like Power BI and Tableau. I specialize in uncovering patterns that help product and business teams improve user retention, optimize performance funnels, and identify growth opportunities. Beyond the technical side, I’m passionate about designing data stories that inspire evidence-based decision-making across organizations.
+Currently a <b>Supply Chain Logistics Analyst</b>, building AI-assisted reporting automation with Claude AI, Python, and GitHub Actions to deliver scalable executive reporting. Previously delivered marketing and product analytics in EdTech (BYJU'S) and consumer tech (Beats by Dr. Dre) — connecting analytical findings to user behavior and measurable business impact.
 </p>
+
+### 🔗 Find Me
 
 <p align="left">
-Previously, I worked as a Business Analyst in EdTech, where I analyzed user engagement data, optimized strategies, and delivered insights that guided both product and business decisions. My ability to connect analytical findings to user behavior and product outcomes continues to fuel my drive toward product analytics and data-informed innovation.
+  <a href="https://mounikasampangi.github.io/mounikasampangi/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-14b8a6?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mounikasampangi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mounika.sampangi3x@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/u/mounikasampangi/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
 </p>
 
+### 🌟 What I'm Focused On
 
-### 🌟 What I’m Focused On
-
-- 📊 Leveraging analytics & experimentation to help teams build scalable, user-focused solutions.  
-- 🧠 Deepening my expertise in predictive modeling, user behavior analytics, and A/B testing.  
-- 🚀 Exploring full-time opportunities in Data & Product Analytics starting Spring 2026 to drive measurable impact in tech-driven environments.  
-- 📄 Know more about my experience: <a href="https://drive.google.com/file/d/1KnfEg8e1bvlZkS1GdmDPos_Us01kTEPB/view?usp=sharing" target="_blank"><b>Link to my resume</b></a>  
-
+- 📊 Building executive-facing dashboards and automated reporting that drive data-informed decisions.
+- 🤖 Applying AI (Claude, Gemini) and NLP to turn unstructured feedback into actionable insight.
+- 🧪 Deepening expertise in A/B testing, predictive modeling, and customer-behavior analytics.
+- 🎯 Open to **Data Analyst** and **Marketing Analyst** opportunities.
 
 ---
 
-### Connect with me:
-<a href="https://www.linkedin.com/in/mounikasampangi" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://leetcode.com/u/mounikasampangi/" target="_blank" rel="noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-</a>
+### 🛠️ Languages & Tools
 
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-### Languages and Tools:
-<p align="left">
-  <!-- Languages -->
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/></a>
-  <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/></a>
+**BI & Visualization**
 
-  <!-- Frontend -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/></a>
-  <a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="40" height="40"/></a>
-  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40"/></a>
-  <a href="https://vuetifyjs.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuetify/vuetify-original.svg" width="40" height="40"/></a>
-  <a href="https://flutter.dev/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.android.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40"/></a>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Adobe Analytics](https://img.shields.io/badge/Adobe%20Analytics-FF0000?style=flat-square&logo=adobe&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-  <!-- Backend & Frameworks -->
-  <a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/></a>
+**Databases, Cloud & Big Data**
 
-  <!-- Cloud/DevOps -->
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/></a>
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/></a>
-  <a href="https://www.jenkins.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
-  <a href="https://grafana.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" width="40" height="40"/></a>
-
-  <!-- Data/DB/Tools -->
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/></a>
-  <a href="https://postman.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" height="40"/></a>
-</p>
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-### 📊 Mounika Sampangi's GitHub Stats:
+### 🚀 Featured Projects
+
+| Project | Stack | What it does |
+| --- | --- | --- |
+| [**EIA Diesel Price Outlook**](https://github.com/mounikasampangi/eia_diesel_price_outlook) | Python · API · GitHub Actions | Automated freight-fuel reporting pipeline that pulls EIA price data and renders scalable HTML outlook reports. |
+| [**AdventureWorks BI Report**](https://github.com/mounikasampangi/AdventureWorks-PowerBI-Project) | Power BI · DAX · Power Query | End-to-end BI build surfacing **$24.9M revenue from 25K+ orders** with regional and product insights. |
+| [**U.S. Adult Obesity Trends**](https://github.com/mounikasampangi/Adult-obesity-in-the-U.S) | SQL · Python · Power BI · Azure ML | Analysis of **450K+ CDC BRFSS records** using regression, hypothesis testing, and forecasting. |
+| [**Q3 Climate Outlook Map**](https://github.com/mounikasampangi/q3-climate-map) | JavaScript · D3.js | Interactive NOAA climate-outlook map with produce-region freight context. |
+| [**Retail Sales Dashboard**](https://github.com/mounikasampangi/Retail-Sales-Analysis-Dashboard-in-Excel) | Advanced Excel · Power Query · VBA | Interactive 2023 retail sales dashboard with KPIs, customer, and regional insights. |
+| [**USDA Truck Availability**](https://github.com/mounikasampangi/usda_availability_trucks_project) | HTML · Jinja · Data Viz | Supply-chain tooling visualizing USDA truck availability and commodity movement. |
+
+---
+
+### 📊 GitHub Stats
+
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mounikasampangi&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
