@@ -5,10 +5,10 @@
 
 <h1 align="left">Hi 👋, I'm Mounika Sampangi</h1>
 
-<h3 align="left">Data &amp; Business Analyst · Operations Analytics · Experimentation &amp; BI</h3>
+<h3 align="left">Data &amp; Operations Analyst · Supply Chain Analytics · SQL, Python &amp; BI</h3>
 
 <p align="left">
-Data and Business Analyst with 2+ years of experience and a Master's in Business Analytics (4.0 GPA) from Northern Arizona University. I turn raw data into clear, accurate decisions using SQL, Python, A/B testing, and dashboards that teams can act on.
+Data and Operations Analyst with 2+ years of experience and a Master's in Business Analytics (4.0 GPA) from Northern Arizona University. I turn raw operational and supply-chain data into clear, accurate decisions using SQL, Python, and dashboards that teams can act on.
 </p>
 
 <p align="left">
@@ -16,7 +16,7 @@ Today I'm a <b>Supply Chain Logistics Analyst</b>, building executive dashboards
 </p>
 
 <p align="left">
-<b>Next, I'm focused on Data, Business, and Product Analyst roles at major tech companies</b>, where I can pair experimentation and statistical rigor with the operational and stakeholder experience I've built.
+<b>Next, I'm focused on Data, Operations, and Supply Chain Analyst roles at major tech companies</b>, where I can pair analytical rigor with the operations and stakeholder experience I've built.
 </p>
 
 ### 🔗 Find Me
@@ -41,7 +41,7 @@ Today I'm a <b>Supply Chain Logistics Analyst</b>, building executive dashboards
 - 📊 Building executive-facing dashboards and automated reporting that drive data-informed decisions.
 - 🧪 Deepening expertise in A/B testing, experimentation, product analytics, and statistical rigor.
 - 🤖 Applying AI (Claude, Gemini) and NLP to turn unstructured feedback into actionable insight.
-- 🎯 Targeting **Data, Business, and Product Analyst** roles at major tech companies.
+- 🎯 Targeting **Data, Operations, and Supply Chain Analyst** roles at major tech companies.
 
 ---
 
