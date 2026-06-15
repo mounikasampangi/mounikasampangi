@@ -1,25 +1,29 @@
 <!-- Profile Views Badge -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mounikasampangi&label=Profile%20views&color=14b8a6&style=flat" alt="mounikasampangi" />
+  <img src="https://komarev.com/ghpvc/?username=mounikasampangi&label=Profile%20views&color=a85f37&style=flat" alt="mounikasampangi" />
 </p>
 
 <h1 align="left">Hi 👋, I'm Mounika Sampangi</h1>
 
-<h3 align="left">Data Analyst · Marketing Analytics · BI & ETL</h3>
+<h3 align="left">Data &amp; Business Analyst · Operations Analytics · Experimentation &amp; BI</h3>
 
 <p align="left">
-Data Analyst with 2+ years of experience and a Master's in Business Analytics (4.0 GPA) from Northern Arizona University. I work at the intersection of data, business, and decision-making — using SQL, Python, Power BI, Tableau, and Adobe Analytics to analyze customer behavior, run A/B tests, and build dashboards that turn raw data into decisions teams can trust.
+Data and Business Analyst with 2+ years of experience and a Master's in Business Analytics (4.0 GPA) from Northern Arizona University. I turn raw data into clear, accurate decisions using SQL, Python, A/B testing, and dashboards that teams can act on.
 </p>
 
 <p align="left">
-Currently a <b>Supply Chain Logistics Analyst</b>, building AI-assisted reporting automation with Claude AI, Python, and GitHub Actions to deliver scalable executive reporting. Previously delivered marketing and product analytics in EdTech (BYJU'S) and consumer tech (Beats by Dr. Dre) — connecting analytical findings to user behavior and measurable business impact.
+Today I'm a <b>Supply Chain Logistics Analyst</b>, building executive dashboards and automating reporting with Python, Claude AI, and GitHub Actions. Before operations, I delivered product and marketing analytics in EdTech (BYJU'S) and consumer tech (Beats by Dr. Dre), where my work drove a 25% lift in lead qualification, 12% higher marketing ROI, and a 5% drop in churn.
+</p>
+
+<p align="left">
+<b>Next, I'm focused on Data, Business, and Product Analyst roles at major tech companies</b>, where I can pair experimentation and statistical rigor with the operational and stakeholder experience I've built.
 </p>
 
 ### 🔗 Find Me
 
 <p align="left">
   <a href="https://mounikasampangi.github.io/mounikasampangi/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-14b8a6?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-a85f37?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/mounikasampangi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -35,13 +39,13 @@ Currently a <b>Supply Chain Logistics Analyst</b>, building AI-assisted reportin
 ### 🌟 What I'm Focused On
 
 - 📊 Building executive-facing dashboards and automated reporting that drive data-informed decisions.
+- 🧪 Deepening expertise in A/B testing, experimentation, product analytics, and statistical rigor.
 - 🤖 Applying AI (Claude, Gemini) and NLP to turn unstructured feedback into actionable insight.
-- 🧪 Deepening expertise in A/B testing, predictive modeling, and customer-behavior analytics.
-- 🎯 Open to **Data Analyst** and **Marketing Analyst** opportunities.
+- 🎯 Targeting **Data, Business, and Product Analyst** roles at major tech companies.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages &amp; Tools
 
 **Languages**
 
@@ -51,7 +55,7 @@ Currently a <b>Supply Chain Logistics Analyst</b>, building AI-assisted reportin
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-**BI & Visualization**
+**BI &amp; Visualization**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
@@ -59,7 +63,7 @@ Currently a <b>Supply Chain Logistics Analyst</b>, building AI-assisted reportin
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**Databases, Cloud & Big Data**
+**Databases, Cloud &amp; Big Data**
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
