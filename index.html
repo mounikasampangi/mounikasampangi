@@ -615,17 +615,19 @@
     const el = document.getElementById('typeTarget');
     if (!el) return;
     const words = ['Data Analyst', 'AI Enthusiast', 'Developer'];
-    let w = 0, c = 'Data Analyst'.length, deleting = false;
+    let w = 0, c = words[0].length, deleting = true;
     function tick() {
       const full = words[w];
       c += deleting ? -1 : 1;
+      if (c < 0) c = 0;
+      if (c > full.length) c = full.length;
       el.textContent = full.slice(0, c);
       let delay = deleting ? 55 : 95;
-      if (!deleting && c === full.length) { delay = 1500; deleting = true; }
-      else if (deleting && c === 0) { deleting = false; w = (w + 1) % words.length; delay = 350; }
+      if (!deleting && c === full.length) { delay = 1400; deleting = true; }
+      else if (deleting && c === 0) { deleting = false; w = (w + 1) % words.length; delay = 320; }
       setTimeout(tick, delay);
     }
-    setTimeout(tick, 1600);
+    setTimeout(tick, 1500);
   })();
 
   /* ── Warm particle-network hero background ── */
