@@ -282,7 +282,7 @@
       <div>
         <div class="eyebrow"><span class="dot"></span> Open to Analyst roles in big tech: Data, Operations &amp; Supply Chain</div>
         <h1>Mounika <span class="grad">Sampangi</span></h1>
-        <div class="role">I'm a <span class="type" id="typeTarget">Data Analyst</span><span class="caret">|</span></div>
+        <div class="role">I'm <span id="typeArt">a</span> <span class="type" id="typeTarget">Data Analyst</span><span class="caret">|</span></div>
         <p class="blurb">I'm a data analyst on operations teams, turning real-time operational and supply-chain data into dashboards and KPIs that drive decisions. I'm aiming to bring that analytical rigor to data, operations, and supply chain analyst roles at major tech companies.</p>
         <div class="cta-row">
           <a class="btn btn-primary" href="mailto:mounika.sampangi3x@gmail.com">✉ Get in touch</a>
@@ -613,18 +613,23 @@
   /* ── Typewriter rotating title ── */
   (function () {
     const el = document.getElementById('typeTarget');
+    const art = document.getElementById('typeArt');
     if (!el) return;
-    const words = ['Data Analyst', 'AI Enthusiast', 'Developer'];
-    let w = 0, c = words[0].length, deleting = true;
+    const words = [
+      { t: 'Data Analyst', a: 'a' },
+      { t: 'AI Enthusiast', a: 'an' },
+      { t: 'Developer', a: 'a' }
+    ];
+    let w = 0, c = words[0].t.length, deleting = true;
     function tick() {
-      const full = words[w];
+      const full = words[w].t;
       c += deleting ? -1 : 1;
       if (c < 0) c = 0;
       if (c > full.length) c = full.length;
       el.textContent = full.slice(0, c);
       let delay = deleting ? 55 : 95;
       if (!deleting && c === full.length) { delay = 1400; deleting = true; }
-      else if (deleting && c === 0) { deleting = false; w = (w + 1) % words.length; delay = 320; }
+      else if (deleting && c === 0) { deleting = false; w = (w + 1) % words.length; if (art) art.textContent = words[w].a; delay = 320; }
       setTimeout(tick, delay);
     }
     setTimeout(tick, 1500);
