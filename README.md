@@ -5,18 +5,18 @@
 
 <h1 align="left">Hi 👋, I'm Mounika Sampangi</h1>
 
-<h3 align="left">Data &amp; Operations Analyst · Supply Chain Analytics · SQL, Python &amp; BI</h3>
+<h3 align="left">Supply Chain &amp; Logistics Analyst · Turning operational data into decisions with SQL, Python &amp; Power BI</h3>
 
 <p align="left">
-Data and Operations Analyst with 2+ years of experience and a Master's in Business Analytics (4.0 GPA) from Northern Arizona University. I turn raw operational and supply-chain data into clear, accurate decisions using SQL, Python, and dashboards that teams can act on.
+I turn messy operational and supply-chain data into clear, accurate decisions — and I automate the reporting so it stays current on its own. I hold a Master's in Business Analytics (4.0 GPA) from Northern Arizona University, with 2+ years of hands-on analytics experience across logistics, EdTech, and consumer tech.
 </p>
 
 <p align="left">
-Today I'm a <b>Supply Chain Logistics Analyst</b>, building executive dashboards and automating reporting with Python, Claude AI, and GitHub Actions. Before operations, I delivered product and marketing analytics in EdTech (BYJU'S) and consumer tech (Beats by Dr. Dre), where my work drove a 25% lift in lead qualification, 12% higher marketing ROI, and a 5% drop in churn.
+Today I'm a <b>Supply Chain Logistics Analyst</b>, where I build executive Power BI dashboards and automated, self-refreshing reports (Python · GitHub Actions · APIs) that give leadership real-time visibility into on-time performance, cost per mile, and customer health. Earlier, I delivered product and marketing analytics in EdTech (BYJU'S) and consumer tech (Beats by Dr. Dre) — experience that taught me to tie every analysis to a business decision.
 </p>
 
 <p align="left">
-<b>Next, I'm focused on Data, Operations, and Supply Chain Analyst roles at major tech companies</b>, where I can pair analytical rigor with the operations and stakeholder experience I've built.
+🎯 <b>My focus is Supply Chain &amp; Logistics Analytics</b>, built on an analytics foundation — forecasting, experimentation, and machine learning — that also carries into product, marketing, and data science problems.
 </p>
 
 ### 🔗 Find Me
@@ -38,10 +38,10 @@ Today I'm a <b>Supply Chain Logistics Analyst</b>, building executive dashboards
 
 ### 🌟 What I'm Focused On
 
-- 📊 Building executive-facing dashboards and automated reporting that drive data-informed decisions.
-- 🧪 Deepening expertise in A/B testing, experimentation, product analytics, and statistical rigor.
-- 🤖 Applying AI (Claude, Gemini) and NLP to turn unstructured feedback into actionable insight.
-- 🎯 Targeting **Data, Operations, and Supply Chain Analyst** roles at major tech companies.
+- 🚚 **Supply chain & logistics analytics** — pricing & rate-per-mile, capacity, on-time performance, and cost visibility.
+- 📊 **Automated, decision-focused reporting** — dashboards and self-refreshing HTML reports that update themselves via GitHub Actions.
+- 📈 **Forecasting, experimentation & ML** applied to real operational problems.
+- 🤖 **Practical AI** — using LLMs and NLP to turn unstructured feedback and manual workflows into automated insight.
 
 ---
 
@@ -59,19 +59,22 @@ Today I'm a <b>Supply Chain Logistics Analyst</b>, building executive dashboards
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Adobe Analytics](https://img.shields.io/badge/Adobe%20Analytics-FF0000?style=flat-square&logo=adobe&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query%20(M)-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Databases, Cloud &amp; Big Data**
+**Databases, Cloud &amp; Automation**
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+**Methods**
+
+`Forecasting` · `Regression` · `Hypothesis Testing` · `A/B Testing` · `Clustering` · `Classification` · `Predictive Analytics`
 
 ---
 
@@ -79,12 +82,12 @@ Today I'm a <b>Supply Chain Logistics Analyst</b>, building executive dashboards
 
 | Project | Stack | What it does |
 | --- | --- | --- |
-| [**EIA Diesel Price Outlook**](https://github.com/mounikasampangi/eia_diesel_price_outlook) | Python · API · GitHub Actions | Automated freight-fuel reporting pipeline that pulls EIA price data and renders scalable HTML outlook reports. |
-| [**AdventureWorks BI Report**](https://github.com/mounikasampangi/AdventureWorks-PowerBI-Project) | Power BI · DAX · Power Query | End-to-end BI build surfacing **$24.9M revenue from 25K+ orders** with regional and product insights. |
-| [**U.S. Adult Obesity Trends**](https://github.com/mounikasampangi/Adult-obesity-in-the-U.S) | SQL · Python · Power BI · Azure ML | Analysis of **450K+ CDC BRFSS records** using regression, hypothesis testing, and forecasting. |
-| [**Q3 Climate Outlook Map**](https://github.com/mounikasampangi/q3-climate-map) | JavaScript · D3.js | Interactive NOAA climate-outlook map with produce-region freight context. |
-| [**Retail Sales Dashboard**](https://github.com/mounikasampangi/Retail-Sales-Analysis-Dashboard-in-Excel) | Advanced Excel · Power Query · VBA | Interactive 2023 retail sales dashboard with KPIs, customer, and regional insights. |
-| [**USDA Truck Availability**](https://github.com/mounikasampangi/usda_availability_trucks_project) | HTML · Jinja · Data Viz | Supply-chain tooling visualizing USDA truck availability and commodity movement. |
+| [**Diesel Price Outlook**](https://github.com/mounikasampangi/eia_diesel_price_outlook) | Python · EIA API · GitHub Actions | Auto-updating freight-fuel chart — weekly diesel actuals with a forecast overlay, rebuilt and republished on a schedule with zero manual work. |
+| [**Truck Availability Tracker**](https://github.com/mounikasampangi/usda_availability_trucks_project) | Python · GitHub Actions · Data Viz | Turns USDA data into refrigerated-truck capacity signals so freight teams can spot tightening capacity early. |
+| [**Produce Climate × Freight Map**](https://github.com/mounikasampangi/q3-climate-map) | JavaScript · NOAA data | Interactive climate-outlook map layered with produce-region freight context. |
+| [**U.S. Adult Obesity Trends**](https://github.com/mounikasampangi/Adult-obesity-in-the-U.S) | Python · Power BI · Stats/ML | Analysis of **450K+ CDC BRFSS records** using regression, hypothesis testing, and forecasting. |
+
+> 🔧 **In progress:** a SQL freight-rate / rate-per-mile analysis and a demand-forecasting project — coming soon.
 
 ---
 
