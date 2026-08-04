@@ -8,15 +8,15 @@
 <h3 align="left">Supply Chain &amp; Logistics Analyst · Turning operational data into decisions with SQL, Python &amp; Power BI</h3>
 
 <p align="left">
-I turn messy operational and supply-chain data into clear, accurate decisions — and I automate the reporting so it stays current on its own. I hold a Master's in Business Analytics (4.0 GPA) from Northern Arizona University, with 2+ years of hands-on analytics experience across logistics, EdTech, and consumer tech.
+I turn messy operational and supply-chain data into clear, accurate decisions, and I automate the reporting so it stays current on its own. I hold a Master's in Business Analytics (4.0 GPA) from Northern Arizona University, with 2+ years of hands-on analytics experience across logistics, EdTech, and consumer tech.
 </p>
 
 <p align="left">
-Today I'm a <b>Supply Chain Logistics Analyst</b>, where I build executive Power BI dashboards and automated, self-refreshing reports (Python · GitHub Actions · APIs) that give leadership real-time visibility into on-time performance, cost per mile, and customer health. Earlier, I delivered product and marketing analytics in EdTech (BYJU'S) and consumer tech (Beats by Dr. Dre) — experience that taught me to tie every analysis to a business decision.
+Today I'm a <b>Supply Chain Logistics Analyst</b>, where I build executive Power BI dashboards and automated, self-refreshing reports (Python · GitHub Actions · APIs) that give leadership real-time visibility into on-time performance, cost per mile, and customer health. Earlier, I delivered product and marketing analytics in EdTech (BYJU'S) and consumer tech (Beats by Dr. Dre), experience that taught me to tie every analysis to a business decision.
 </p>
 
 <p align="left">
-🎯 <b>My focus is Supply Chain &amp; Logistics Analytics</b>, built on an analytics foundation — forecasting, experimentation, and machine learning — that also carries into product, marketing, and data science problems.
+🎯 <b>My focus is Supply Chain &amp; Logistics Analytics</b>, built on an analytics foundation (forecasting, experimentation, and machine learning) that also carries into product, marketing, and data science problems.
 </p>
 
 ### 🔗 Find Me
@@ -38,10 +38,10 @@ Today I'm a <b>Supply Chain Logistics Analyst</b>, where I build executive Power
 
 ### 🌟 What I'm Focused On
 
-- 🚚 **Supply chain & logistics analytics** — pricing & rate-per-mile, capacity, on-time performance, and cost visibility.
-- 📊 **Automated, decision-focused reporting** — dashboards and self-refreshing HTML reports that update themselves via GitHub Actions.
+- 🚚 **Supply chain & logistics analytics**: pricing & rate-per-mile, capacity, on-time performance, and cost visibility.
+- 📊 **Automated, decision-focused reporting**: dashboards and self-refreshing HTML reports that update themselves via GitHub Actions.
 - 📈 **Forecasting, experimentation & ML** applied to real operational problems.
-- 🤖 **Practical AI** — using LLMs and NLP to turn unstructured feedback and manual workflows into automated insight.
+- 🤖 **Practical AI**: using LLMs and NLP to turn unstructured feedback and manual workflows into automated insight.
 
 ---
 
@@ -82,12 +82,12 @@ Today I'm a <b>Supply Chain Logistics Analyst</b>, where I build executive Power
 
 | Project | Stack | What it does |
 | --- | --- | --- |
-| [**Diesel Price Outlook**](https://github.com/mounikasampangi/eia_diesel_price_outlook) | Python · EIA API · GitHub Actions | Auto-updating freight-fuel chart — weekly diesel actuals with a forecast overlay, rebuilt and republished on a schedule with zero manual work. |
+| [**Diesel Price Outlook**](https://github.com/mounikasampangi/eia_diesel_price_outlook) | Python · EIA API · GitHub Actions | Auto-updating freight-fuel chart, weekly diesel actuals with a forecast overlay, rebuilt and republished on a schedule with zero manual work. |
 | [**Truck Availability Tracker**](https://github.com/mounikasampangi/usda_availability_trucks_project) | Python · GitHub Actions · Data Viz | Turns USDA data into refrigerated-truck capacity signals so freight teams can spot tightening capacity early. |
 | [**Produce Climate × Freight Map**](https://github.com/mounikasampangi/q3-climate-map) | JavaScript · NOAA data | Interactive climate-outlook map layered with produce-region freight context. |
 | [**U.S. Adult Obesity Trends**](https://github.com/mounikasampangi/Adult-obesity-in-the-U.S) | Python · Power BI · Stats/ML | Analysis of **450K+ CDC BRFSS records** using regression, hypothesis testing, and forecasting. |
 
-> 🔧 **In progress:** a SQL freight-rate / rate-per-mile analysis and a demand-forecasting project — coming soon.
+> 🔧 **In progress:** a SQL freight-rate / rate-per-mile analysis and a demand-forecasting project, coming soon.
 
 ---
 
