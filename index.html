@@ -113,8 +113,8 @@
 
   .avatar {
     width: 168px; height: 168px; border-radius: 50%;
-    display: grid; place-items: center;
-    font-family: 'Montserrat', sans-serif; font-weight: 800; font-size: 56px; color: #fff;
+    display: block; object-fit: cover; object-position: 50% 40%;
+    /* gradient shows through only if the photo fails to load */
     background: linear-gradient(150deg, #c98c60, #a0552f);
     box-shadow: 0 0 0 8px rgba(255,255,255,0.7), 0 18px 45px rgba(168,95,55,0.32);
   }
@@ -241,7 +241,7 @@
   @media (max-width: 860px) {
     .hero h1 { font-size: 38px; }
     .hero-grid { grid-template-columns: 1fr; }
-    .avatar { width: 110px; height: 110px; font-size: 38px; }
+    .avatar { width: 110px; height: 110px; }
     .about-grid { grid-template-columns: 1fr; }
     .split { grid-template-columns: 1fr; }
     .nav-links { display: none; }
@@ -290,7 +290,7 @@
           <a class="btn btn-ghost" href="https://github.com/mounikasampangi" target="_blank" rel="noopener">◐ GitHub</a>
         </div>
       </div>
-      <div class="avatar">MS</div>
+      <img class="avatar" src="assets/avatar.jpg" width="168" height="168" alt="Mounika Sampangi" />
     </div>
     <div class="hero-stats">
       <div class="hstat"><div class="num">2+ yrs</div><div class="lbl">Analytics experience</div></div>

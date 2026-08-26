@@ -3,6 +3,8 @@
   <img src="https://komarev.com/ghpvc/?username=mounikasampangi&label=Profile%20views&color=a85f37&style=flat" alt="mounikasampangi" />
 </p>
 
+<img align="right" width="240" src="assets/profile.jpg" alt="Mounika Sampangi" />
+
 <h1 align="left">Hi 👋, I'm Mounika Sampangi</h1>
 
 <h3 align="left">Supply Chain &amp; Logistics Analyst · Turning operational data into decisions with SQL, Python &amp; Power BI</h3>
@@ -18,6 +20,8 @@ Today I'm a <b>Supply Chain Logistics Analyst</b>, where I build executive Power
 <p align="left">
 🎯 <b>My focus is Supply Chain &amp; Logistics Analytics</b>, built on an analytics foundation (forecasting, experimentation, and machine learning) that also carries into product, marketing, and data science problems.
 </p>
+
+<br clear="both" />
 
 ### 🔗 Find Me
 
