@@ -5,7 +5,7 @@
 
 <h1 align="left">Hi 👋, I'm Mounika Sampangi</h1>
 
-<h3 align="left">Supply Chain &amp; Logistics Analyst · Turning operational data into decisions with SQL, Python &amp; Power BI</h3>
+<h3 align="left">Supply Chain &amp; Logistics Analyst · Freight Pricing, TMS &amp; Carrier Analytics · SQL · Python · Power BI</h3>
 
 <p align="left">
 I turn messy operational and supply-chain data into clear, accurate decisions, and I automate the reporting so it stays current on its own. I hold a Master's in Business Analytics (4.0 GPA) from Northern Arizona University, with 2+ years of hands-on analytics experience across logistics, EdTech, and consumer tech.
@@ -16,7 +16,8 @@ Today I'm a <b>Supply Chain Logistics Analyst</b>, where I build executive Power
 </p>
 
 <p align="left">
-🎯 <b>My focus is Supply Chain &amp; Logistics Analytics</b>, built on an analytics foundation (forecasting, experimentation, and machine learning) that also carries into product, marketing, and data science problems.
+🎯 <b>My focus is Supply Chain &amp; Logistics Analytics</b>, built on an analytics foundation in forecasting, experimentation, and machine learning.<br>
+📍 <b>Phoenix, AZ</b> · Open to Supply Chain, Logistics &amp; Business/BI Analyst roles, locally, remote, or via relocation.
 </p>
 
 ### 🔗 Find Me
