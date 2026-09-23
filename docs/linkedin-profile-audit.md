@@ -33,10 +33,10 @@ Edit intro → Location → **Phoenix, Arizona, United States** (or Scottsdale).
 > Supply Chain Logistics Analyst | Driving Supply Chain Performance Through Automation & Analytics | SQL · Python · Power BI
 
 **Recommended:**
-> Supply Chain & Logistics Analyst | Freight Pricing (RPM), TMS & Carrier Analytics | Power BI · SQL · Python | Automated Reporting | MS Business Analytics (4.0)
+> Supply Chain & Logistics Analyst | Freight Pricing, Rate per Mile, TMS & Carrier Analytics | Power BI · SQL · Python | Automated Reporting | MS Business Analytics, 4.0 GPA
 
 **Alternative** (if you want to keep generalist data roles in play):
-> Supply Chain & Data Analyst | Logistics, Freight Pricing & Operations Analytics | Power BI · SQL · Python · Automation | MS Business Analytics (4.0 GPA)
+> Supply Chain & Data Analyst | Logistics, Freight Pricing & Operations Analytics | Power BI · SQL · Python · Automation | MS Business Analytics, 4.0 GPA
 
 Why this is better: it includes the titles recruiters search for (*Supply Chain Analyst, Logistics Analyst, Data Analyst*), adds domain nouns the semantic ranker links to supply chain (*freight, RPM, TMS, carrier*), and adds a proof point.
 
